@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b8860b,100:0d1117&height=240&section=header&text=Zacky%20Alvarezy&fontSize=54&fontColor=f5d76e&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%40%20Salsasoft&descSize=20&descColor=ffffff&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b8860b,100:0d1117&height=240&section=header&text=Zacky%20Alvarezy&fontSize=54&fontColor=f5d76e&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%40%20Salfasoft&descSize=20&descColor=ffffff&descAlignY=60" width="100%" />
 
   <a href="https://github.com/zackyalvarezy12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+secure+web+systems;Full-Stack+Developer+%40+Salsasoft;Laravel+%7C+PHP+%7C+MySQL;Currently+learning+Yii+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+secure+web+systems;Full-Stack+Developer+%40+Salfasoft;Laravel+%7C+PHP+%7C+MySQL;Currently+learning+Yii+Framework" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -26,7 +26,7 @@ class Zacky extends Developer
 {
     public string $name      = "Zacky Alvarezy";
     public string $role      = "Full-Stack Web Developer";
-    public string $company   = "Salsasoft";
+    public string $company   = "Salfasoft";
     public string $education = "D3 Sistem Informasi, Politeknik Negeri Padang (GPA 3.61)";
     public string $location  = "Batusangkar, West Sumatra, Indonesia 🇮🇩";
 
@@ -36,12 +36,12 @@ class Zacky extends Developer
 
     public function status(): string
     {
-        return "Building real-world systems at Salsasoft 🚀";
+        return "Building real-world systems at Salfasoft 🚀";
     }
 }
 ```
 
-> Web developer di **Salsasoft**, lulusan D3 Sistem Informasi Politeknik Negeri Padang. Sebelumnya membangun sistem Laravel produksi untuk pemerintah daerah di **Diskominfo Kabupaten Tanah Datar**, dengan penerapan keamanan data, pencarian AJAX, dan manajemen peran pengguna.
+> Web developer di **Salfasoft**, lulusan D3 Sistem Informasi Politeknik Negeri Padang. Sebelumnya membangun sistem Laravel produksi untuk pemerintah daerah di **Diskominfo Kabupaten Tanah Datar**, dengan penerapan keamanan data, pencarian AJAX, dan manajemen peran pengguna.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
@@ -95,7 +95,7 @@ class Zacky extends Developer
 
 | Periode | Peran | Instansi |
 |:--|:--|:--|
-| 2026 – Sekarang | **Full-Stack Web Developer** | **Salsasoft** |
+| 2026 – Sekarang | **Full-Stack Web Developer** | **Salfasoft** |
 | Feb 2026 – Jul 2026 | **Full-Stack Developer (PKL)** | Diskominfo Kabupaten Tanah Datar |
 | Jan 2024 – Feb 2026 | **Asisten Teknisi Kampus** | Politeknik Negeri Padang / PSDKU Tanah Datar |
 | Aug 2024 – Mar 2025 | **Ketua Infokom Forum** | Organisasi Kampus |
