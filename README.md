@@ -16,7 +16,7 @@
 Lulusan **D3 Sistem Informasi, Politeknik Negeri Padang** (IPK 3,61) yang berfokus pada pengembangan web. Saya pernah mengembangkan sistem berbasis **Laravel** untuk pemerintah daerah di **Diskominfo Kabupaten Tanah Datar**, dengan penerapan keamanan data, pencarian AJAX, dan manajemen peran pengguna.
 
 - 📍 Batusangkar, Kabupaten Tanah Datar, Sumatera Barat
-- 🌐 Website: [zackytech.42web.io](https://zackytech.42web.io/?i=1)
+- 🌐 Website: [zackytech.42web.io](https://zackytech.42web.io/)
 - 🌱 Sedang belajar: **Yii Framework**
 - 🔭 Mengembangkan: sistem web berbasis Laravel dan MySQL
 - 📫 Email: zackyanakapak@gmail.com
