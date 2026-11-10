@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Zacky Alvarezy - Full-Stack Web Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b8860b,100:0d1117&height=240&section=header&text=Zacky%20Alvarezy&fontSize=54&fontColor=f5d76e&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%40%20Salsasoft&descSize=20&descColor=ffffff&descAlignY=60" width="100%" />
 
   <a href="https://github.com/zackyalvarezy12">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+secure+web+systems;Full-Stack+Developer+%40+Salsasoft;Laravel+%7C+PHP+%7C+MySQL;Currently+learning+Yii+Framework" alt="Typing SVG" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/stars/zackyalvarezy12?style=flat-square&logo=github&color=d4af37&labelColor=0d1117" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -43,7 +43,7 @@ class Zacky extends Developer
 
 > Web developer di **Salsasoft**, lulusan D3 Sistem Informasi Politeknik Negeri Padang. Sebelumnya membangun sistem Laravel produksi untuk pemerintah daerah di **Diskominfo Kabupaten Tanah Datar**, dengan penerapan keamanan data, pencarian AJAX, dan manajemen peran pengguna.
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -56,7 +56,7 @@ class Zacky extends Developer
   <img src="https://img.shields.io/badge/Yii_Framework-d4af37?style=for-the-badge&logo=yii&logoColor=black&labelColor=0d1117" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 🚀 Featured Projects
 
@@ -89,7 +89,7 @@ class Zacky extends Developer
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 💼 Experience
 
@@ -101,26 +101,15 @@ class Zacky extends Developer
 | Aug 2024 – Mar 2025 | **Ketua Infokom Forum** | Organisasi Kampus |
 | Nov 2025 | **Ketua/Wakil Ketua PKTOS** | Pekan Kreativitas Mahasiswa dan Olahraga |
 
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=zackyalvarezy12&theme=dark&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&hide_border=true" />
 </div>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/zackyalvarezy12/zackyalvarezy12/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:d4af37,100:0d1117&height=2" width="100%" />
 
 ## 🤝 Let's Connect
 
@@ -129,3 +118,5 @@ Terbuka untuk kolaborasi dan diskusi seputar web development.
 <div align="center">
   <a href="https://zackytech.42web.io/"><img src="https://img.shields.io/badge/Visit_My_Portfolio-d4af37?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" /></a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b8860b,100:0d1117&height=100&section=footer" width="100%" />
