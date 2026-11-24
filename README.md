@@ -25,7 +25,7 @@
 class Zacky extends Developer
 {
     public string $name      = "Zacky Alvarezy";
-    public string $role      = "Full-Stack Web Developer";
+    public string $role      = "Full-Sta Developer";
     public string $education = "D3 Sistem Informasi, Politeknik Negeri Padang (GPA 3.61)";
     public string $location  = "Batusangkar, West Sumatra, Indonesia 🇮🇩";
 
